@@ -1,0 +1,41 @@
+h3 {
+  text-align: center;
+  background-color: rgb(41, 40, 40);
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 22px;
+  margin-top: 5px;
+}
+
+#userCityInput {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.col-1 {
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+.card-text {
+  padding: 10px;
+}
+
+img {
+  width: 55px;
+  margin-left: 10px;
+}
+.list-group-item {
+  background-color: rgb(217, 229, 245);
+  margin-left: 15px;
+}
+body {
+  line-height: 0.75;
+}
+.badge {
+  color: white;
+}
